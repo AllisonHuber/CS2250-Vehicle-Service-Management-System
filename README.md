@@ -6,6 +6,10 @@ A Python application developed for **CS 2250: Programming and Data Structures in
 
 This project models the operation of an automotive service center using object-oriented programming principles. The application allows users to register vehicle owners, manage vehicles, hire mechanics, schedule service appointments, and track service completion.
 
+## Program Output
+
+![Program Output](program_output.png)
+
 ## Features
 
 - Register vehicle owners
