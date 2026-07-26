@@ -8,7 +8,7 @@ This project models the operation of an automotive service center using object-o
 
 ## Program Output
 
-![Program Output](program_output.png)
+![Program Output](Program_Output.png)
 
 ## Features
 
